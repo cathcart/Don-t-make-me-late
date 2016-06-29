@@ -14,7 +14,6 @@ This converts the **UniqueCarrier** id to a human readable airline name using th
 ##Plots
 The app can render three different plots.
 ### Fraction on time - monthly plot
-[Fraction on time - monthly plot]("images/monthly.png")
 <img src="images/monthly.png">
 ### Fraction on time - timeline plot
 <img src="images/timeline.png">
