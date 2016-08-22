@@ -20,4 +20,10 @@ The app can render three different plots for comparing the fraction of flights a
 ### Fraction on time - timeline plot
 <img src="images/timeline.png">
 ### Fraction on time - airline comparison plot
+
+##Results
+The results appear to show that regional airlines such as Hawaiian Airlines and Alaska Airlines have the highest on time fractions of all the airlines. This indicates that it is these airlines with which customers are least likely to face a delayed flight. This is in line with the Department of Transports <a href="https://newsroom.hawaiianairlines.com/releases/dot-rankings">own reports</a> as well as the independent data services company <a href="https://www.alaskaair.com/content/about-us/newsroom/alaska-awards.aspx">FlightStats</a>.
 <img src="images/comparison.png">
+
+##Live Demo
+A live demo of the app can be found <a href="https://cathcart.shinyapps.io/Dont-make-me-late/">here</a>.
